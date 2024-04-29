@@ -17,6 +17,6 @@ function add() {
 
     console.log(combine);
 }
-(add)
+add();
 // This calla the function, like answering your parent after they called you
 
